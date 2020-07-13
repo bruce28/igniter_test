@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://bookshop.smarthost.pl/igniter/';
+$config['base_url'] = 'https://bookshop.smarthost.pl/igniter_test/';
 
 /*
 |--------------------------------------------------------------------------
@@ -324,7 +324,7 @@ $config['cache_query_string'] = FALSE;
 | https://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = 'as1l4o1l';
+$config['encryption_key'] = '1daagmsn';
 
 /*
 |--------------------------------------------------------------------------
